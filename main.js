@@ -1,1 +1,2 @@
-local MediaDeviceInfo.js
+from remote
+local main.js
