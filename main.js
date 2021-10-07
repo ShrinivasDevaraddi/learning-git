@@ -1,2 +1,2 @@
 from remote
-local main.js
+local main.js SVGFEComponentTransferElement
